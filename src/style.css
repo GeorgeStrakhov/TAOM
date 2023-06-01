@@ -1,0 +1,35 @@
+:root {
+  --background-color: #0a0a0aff;
+  --primary-color: #e3d9cc;
+  --border-radius: 2rem;
+  font-family: 'EB Garamond', serif;
+}
+
+html, body {
+  background-color: var(--background-color);
+  color: var(--primary-color);
+}
+
+h1, h2 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 400;
+}
+
+.subtitle {
+  font-family: 'EB Garamond', serif;
+}
+
+.hero-img {
+  width: 90%;
+}
+
+.interface-img {
+  width: 90%;
+}
+
+.cta-btn {
+  display: block;
+  font-weight: bold;
+  background-color: var(--primary-color);
+  color: var(--background-color);
+}
