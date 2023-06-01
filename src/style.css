@@ -15,6 +15,10 @@ h1, h2 {
   font-weight: 400;
 }
 
+h2 {
+  font-size: 1.8rem;
+}
+
 .subtitle {
   font-family: 'EB Garamond', serif;
 }
