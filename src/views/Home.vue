@@ -23,9 +23,9 @@
     </div>
     <div class="col-12 md:col-6 lg:col-4 flex flex-column align-content-center justify-content-center pr-4">
       <ul class="line-height-3 xl:text-xl">
-        <li>A d<span class="underline">ai</span>mon is a machine learning agent with an LLM as a primary natural language interface (think Langchain).</li>
+        <li>A d<span class="font-italic">ai</span>mon is a machine learning agent with an LLM as a primary natural language interface (think Langchain).</li>
         <li>Each daimon by default has a master-prompt, a private long-term memory and access to the web.</li>
-        <li>The simplest kind of daimon is just a prompt that asks an LLM to impersonate a certain famous character: e.g. Richar Feynman, Marie Curie, Lao Tzu... etc.</li>
+        <li>The simplest kind of daimon is just a prompt that asks an LLM to impersonate a certain famous character: e.g. Richard Feynman, Marie Curie, Lao Tzu... etc.</li>
         <li>Daimons can be more complex and have other ML or non-ML tools under the hood - from image generation capacity to special knowledge, skills or data access.</li>
         <li>You can summon daimons from an existing library or create your own by simply specifying a master-prompt or by writing your own arbitrarily complex agents in code.</li>
         <li>You can fork and customize daimons.</li>
@@ -72,7 +72,7 @@
         <li>You can decide who gets to inherit your army of daimons and your threads after you die.</li>
         <li>You can also choose to preserve your own essence as a daimon. Everything you say in all threads can be used to continuously train an LLM agent which would eventually become as close to you as machinely possible.</li>
         <li>You can use your own daimon as a proxy for yourself while you are alive, and you can allow others to do so - both while you are alive and after you die.</li>
-        <li>Ultimately, when all is said and done, the full snapshot of the army of you can become one meta-daimon that (if you choose so) others may be able to interact with long after you are gone.</li>
+        <li>Ultimately, when all is said and done, the full snapshot of The Army Of You can become one meta-daimon that (if you choose so) others may be able to interact with long after you are gone.</li>
       </ul>
     </div>
   </div>
